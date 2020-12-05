@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PA8
 //
-//  Created by user180005 on 12/3/20.
+//  Created by Kevin Lunden on 12/3/20.
 //
 
 import UIKit
